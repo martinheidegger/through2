@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "inherits": "^2.0.4",
-    "readable-stream": "github:hugomrdias/readable-stream#fix/remove-node-globals"
+    "readable-stream": "github:martinheidegger/readable-stream#fix/remove-node-globals"
   },
   "devDependencies": {
     "bl": "~2.0.1",
